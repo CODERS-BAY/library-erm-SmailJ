@@ -7,10 +7,10 @@ Customers can also reserve books, each reservation usually results in a loan. Th
 
 # Finish
 
-Library (Employees: varchar, Customers: varchar) <br>
-Customers (CID: int, Loan: varchar, BD: date, Reservation: varchar, MaintainedByStaff: varchar)<br>
-Employees (EID: int, Name: varchar, BD: date)<br>
-Books (Name: varchar, Publisher: varchar, Gerne: varchar, Author: varchar, Translate: tinytext, Keyword: tinytext, Avibility: boolean)<br>
-Journals (Date: date, Publisher: varchar, Article: varchar, Author: varchar, Keyword: tinytext, Reference: varchar, Avibility: boolean)<br>
+Library (Employees: varchar, Customers: varchar) <br\>
+Customers (CID: int, Loan: varchar, BD: date, Reservation: varchar, MaintainedByStaff: varchar)<br\>
+Employees (EID: int, Name: varchar, BD: date)<br\>
+Books (Name: varchar, Publisher: varchar, Gerne: varchar, Author: varchar, Translate: tinytext, Keyword: tinytext, Avibility: boolean)<br\>
+Journals (Date: date, Publisher: varchar, Article: varchar, Author: varchar, Keyword: tinytext, Reference: varchar, Avibility: boolean)<br\>
 
 ![Handarbeit](Foto.jpg)
